@@ -1,4 +1,3 @@
 # Hi Th3Spl Here!
 
-`lol`
-
+- [x] sono ste
