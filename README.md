@@ -30,4 +30,7 @@ At the moment the unique method for
 contact me is with my discord so you can join 
 my [`Discord Community`](https://github.com/Th3Spl/Th3Spl/blob/main/README.md#hi-th3spl-here)
 <br />
+<br />
+<br >
+<br />
 ![Life Style](https://cdn.discordapp.com/banners/152664793587777537/3436dcfc750936717fe1570d5a020ea0.png?size=4096)
