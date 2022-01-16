@@ -9,7 +9,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31e2zm5f74xifzyo73v62bg6kp7a&cover_image=true&theme=natemoo-re&bar_color=1138d4&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31e2zm5f74xifzyo73v62bg6kp7a&redirect=true)
 
 ### My Stats:
-[![Th3Spl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Th3Spl&bg_color=373F51&title_color=DF795E)](https://github.com/anuraghazra/github-readme-stats)
+[![Th3Spl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Th3Spl&bg_color=373F51&title_color=DF795E&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Who am i :
 I am Th3Spl and this is my GitHub profile
