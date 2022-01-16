@@ -1,3 +1,5 @@
 # Hi Th3Spl Here!
 
-- [x] sono ste
+- [x] C++
+- [x] c#
+- [x] Python 
