@@ -28,4 +28,4 @@ to some events!
 ### My contacts:
 At the moment the unique method for 
 contact me is with my discord so you can join 
-my [discord community]()
+my [Discord Community](https://github.com/Th3Spl/Th3Spl/blob/main/README.md#hi-th3spl-here)
