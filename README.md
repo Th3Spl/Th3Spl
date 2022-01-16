@@ -25,4 +25,7 @@ to some events!
 
 [Discord Link](https://discord.gg/635ysHGDG6)
 
-### My contacts
+### My contacts:
+At the moment the unique method for 
+contact me is with my discord so you can join 
+my [discord community]()
