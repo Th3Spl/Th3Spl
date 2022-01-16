@@ -24,3 +24,5 @@ user, gamer, coder, graphic, otaku and you can partecipate
 to some events!
 
 [Discord Link](https://discord.gg/635ysHGDG6)
+
+### My contacts
