@@ -18,7 +18,7 @@ know the html/css actually i am working on some
 private project and on some open source startup
 but i want to become a cyber security expert!
 
-### My Discoord Community:
+### My Discord Community:
 In my discord community you can chill and vide with other 
 user, gamer, coder, graphic, otaku and you can partecipate
 to some events!
