@@ -29,3 +29,5 @@ to some events!
 At the moment the unique method for 
 contact me is with my discord so you can join 
 my [Discord Community](https://github.com/Th3Spl/Th3Spl/blob/main/README.md#hi-th3spl-here)
+
+* Th3Spl is a surname I use online to hide my real-life identity while still being identifiable throughout the Internet. This is not my legal surname nor do I intend for it to ever be.
