@@ -11,7 +11,7 @@
 ### My Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=th3spl&layout=compact&hide_title=false&title_color=00ff35&bg_color=495273&text_color=000000&border_color=000000)](https://github.com/anuraghazra/github-readme-stats)
 
-## Who am i:
+## Who am i :
 I am Th3Spl and this is my GitHub profile
 i love code in c++, c# and python but i also 
 know the html/css actually i am working on some 
