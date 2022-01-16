@@ -6,4 +6,4 @@
 - [x] c#
 
 
-![Th3Spl's Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Th3Spl's Stats](https://github-readme-stats.vercel.app/api?username=Th3Spl&hide=contribs,prs)
