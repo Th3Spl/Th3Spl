@@ -34,4 +34,5 @@ my [`Discord Community`](https://github.com/Th3Spl/Th3Spl/blob/main/README.md#hi
 ![Life Style](https://cdn.discordapp.com/banners/152664793587777537/3436dcfc750936717fe1570d5a020ea0.png?size=4096)
 <br />
 <br />
+### Disclaimer
 All my projects here are for EDUCATIONAL PURPOSES, I am not responsible for any individual(s) using my code for their own purposes. Assume all projects are under MIT License unless otherwise specified.
