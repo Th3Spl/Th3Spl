@@ -11,7 +11,7 @@
 ### My Stats:
 [![Th3Spl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Th3Spl&bg_color=373F51&title_color=DF795E&show_icons=true&text_color=EACEB1&icon_color=ECAD49)](https://github.com/anuraghazra/github-readme-stats)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=th3spl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=th3spl&bg_color=373F51&title_color=DF795E&show_icons=true&text_color=EACEB1&icon_color=ECAD49)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Who am i :
 I am Th3Spl and this is my GitHub profile
