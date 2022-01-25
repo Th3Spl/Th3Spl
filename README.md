@@ -34,6 +34,6 @@ contact me is with my discord so you can join
 my [`Discord Community`](https://github.com/Th3Spl/Th3Spl/blob/main/README.md#hi-th3spl-here)
 <br />
 <br />
-![Life Style](https://cdn.discordapp.com/banners/152664793587777537/3436dcfc750936717fe1570d5a020ea0.png?size=4096)
+![Life Style](https://i.imgur.com/2Rn7HYe.png)
 ### Disclaimer:
 All my projects here are for EDUCATIONAL PURPOSES, I am not responsible for any individual(s) using my code for their own purposes. Assume all projects are under [`MIT License`](https://opensource.org/licenses/MIT) unless otherwise specified.
