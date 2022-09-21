@@ -9,7 +9,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31e2zm5f74xifzyo73v62bg6kp7a&cover_image=true&theme=natemoo-re&bar_color=1138d4&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31e2zm5f74xifzyo73v62bg6kp7a&redirect=true)
 
 ### My Discord:
-![https://discord.com/users/720879703598039131](https://discord.c99.nl/widget/theme-2/686800430176665621.png)
+![https://discord.com/users/720879703598039131](https://discord.c99.nl/widget/theme-2/720879703598039131.png)
 
 ### My Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=th3spl&bg_color=373F51&title_color=DF795E&show_icons=true&text_color=EACEB1&icon_color=ECAD49)](https://github.com/anuraghazra/github-readme-stats)
