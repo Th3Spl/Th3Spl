@@ -12,9 +12,10 @@
 [` Link to my Spotify playlist `](https://open.spotify.com/playlist/3a9ZyIjqLdiJ12hEAuyoW2?si=a64068d979854f84)
 ### My Discord:
 ![https://discord.com/users/720879703598039131](https://discord.c99.nl/widget/theme-4/720879703598039131.png)
-###My Life:
+
+### My Life:
 ```
-  void Life (string name, string surname, int age, bool alive = true)
+  void Life (string name, string surname, int age, bool alive)
   {
       while (alive == true)
       {
