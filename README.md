@@ -22,7 +22,7 @@
           functions.wakeUp();
           functions.study();
           functions.code();
-          function.sleep();
+          functions.sleep();
       }
   }
 ```
