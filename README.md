@@ -27,7 +27,7 @@
   }
 ```
 
-<button>Lol</button>
+<button border="1">Lol</button>
 
 ## Who am i :
 I am Th3Spl and this is my GitHub profile
