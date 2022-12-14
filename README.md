@@ -27,14 +27,7 @@
   }
 ```
 
-<table>
-  
-  <tr> 
-    <th>Lol</th> 
-    <th>Lol2</th>
-  </tr>
-  
-</table>
+<button>Lol</button>
 
 ## Who am i :
 I am Th3Spl and this is my GitHub profile
