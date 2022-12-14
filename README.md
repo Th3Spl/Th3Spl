@@ -29,10 +29,9 @@
 
 <table>
   
-  <tr>
-    
-    <td>Lol</td>
-    
+  <tr> 
+    <th>Lol</th> 
+    <th>Lol2</th>
   </tr>
   
 </table>
