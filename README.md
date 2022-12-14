@@ -14,7 +14,7 @@
 ![https://discord.com/users/720879703598039131](https://discord.c99.nl/widget/theme-4/720879703598039131.png)
 
 ### My Life:
-```
+```c++
   void Life (string name, string surname, int age, bool alive)
   {
       while (alive == true)
