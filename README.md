@@ -27,7 +27,13 @@
   }
 ```
 
-<input type="text">
+<a class="ds">Discord</a>
+
+<style>
+  .ds{
+    color: black;
+  }
+</style>
 
 ## Who am i :
 I am Th3Spl and this is my GitHub profile
