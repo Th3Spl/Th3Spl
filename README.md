@@ -29,7 +29,7 @@
   }
 ```
 
-<p style="align: center">```I love coffe ☕```</p>
+[` I love coffe ☕`]('https://github.com/Th3Spl')
 
 ## Who am i :
 I am Th3Spl and this is my GitHub profile
