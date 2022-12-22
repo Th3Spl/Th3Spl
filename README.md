@@ -29,6 +29,8 @@
   }
 ```
 
+<p style="align: center">I love coffe ☕</p>
+
 ## Who am i :
 I am Th3Spl and this is my GitHub profile
 i love code in c++, c# and python but i also 
