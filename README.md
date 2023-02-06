@@ -17,15 +17,14 @@
 
 ### My Life:
 ```c++
-  void Life (string name, string surname, int age, bool alive)
+  void DailyRoutine (string name, string surname, int age, bool alive)
   {
-      while (alive == true)
-      {
-          functions.wakeUp();
-          functions.study();
-          functions.code();
-          functions.sleep();
-      }
+      functions.wakeUp();
+      functions.study();
+      functions.eat();
+      functions.playVideogames();
+      functions.code();
+      functions.sleep()
   }
 ```
 
