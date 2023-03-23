@@ -6,7 +6,7 @@
 - [x] Python
 - [x] Javascript 
 
-[` I also know a little bit of:  js, html, css, java`]('https://github.com/Th3Spl')
+[` I also know a little bit of: html, css, java`]('https://github.com/Th3Spl')
 
 ### My Spotify:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31e2zm5f74xifzyo73v62bg6kp7a&cover_image=true&theme=natemoo-re&bar_color=1138d4&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31e2zm5f74xifzyo73v62bg6kp7a&redirect=true)
@@ -32,20 +32,20 @@
 
 ## Who am i :
 I am Th3Spl and this is my GitHub profile
-i love code in c++, c# and python but i also 
-know the html/css actually i am working on some 
-private project and on some open source startup
+i love to code in c++, c# and python but i also 
+know some html/css actually i am working on some 
+private projects and on some open source startups
 but i want to become a cyber security expert!
 
 ### My Discord Community:
-In my discord community you can chill and vide with other 
-user, gamer, coder, graphic, otaku and you can partecipate
+In my discord community you can chill out and vide with other 
+users, gamers, coders, graphs, otakus and you can partecipate
 to some events!
 
 [`Discord Link`](https://discord.gg/635ysHGDG6)
 
 ### My contacts:
-At the moment the unique method for 
+At the moment the unique method to 
 contact me is with discord so you can join 
 my [`Discord Community`](https://github.com/Th3Spl/Th3Spl/blob/main/README.md#hi-th3spl-here)
 <br />
