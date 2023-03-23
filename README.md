@@ -46,7 +46,7 @@ to some events!
 
 ### My contacts:
 At the moment the unique method to 
-contact me is with discord so i suggest you to join
+contact me is discord so i suggest you to join
 my [`Discord Community`](https://github.com/Th3Spl/Th3Spl/blob/main/README.md#hi-th3spl-here)
 <br />
 <br />
