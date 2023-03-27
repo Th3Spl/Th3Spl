@@ -28,7 +28,7 @@
   }
 ```
 
-[` I love coffe ☕`]('https://github.com/Th3Spl')
+[` I love coffee ☕`]('https://github.com/Th3Spl')
 
 ## Who am i :
 I am Th3Spl and this is my GitHub profile
