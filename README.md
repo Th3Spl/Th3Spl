@@ -15,18 +15,6 @@
 ### My Discord:
 [![Discord Presence](https://lanyard.cnrad.dev/api/720879703598039131?idleMessage=currently+offline!&hideDiscrim=true&bg=#0d1117)](https://discord.com/users/720879703598039131)
 
-### My Life:
-```c++
-  void DailyRoutine (string name, string surname, int age, bool alive)
-  {
-      functions.wakeUp();
-      functions.study();
-      functions.eat();
-      functions.playVideogames();
-      functions.code();
-      functions.sleep()
-  }
-```
 [` I love coffee ☕`]('https://github.com/Th3Spl')
 
 ## Who am i :
