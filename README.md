@@ -13,7 +13,7 @@
 
 [` Link to my Spotify playlist `](https://open.spotify.com/playlist/3a9ZyIjqLdiJ12hEAuyoW2?si=a64068d979854f84)
 ### My Discord:
-[![Discord Presence](https://lanyard.cnrad.dev/api/720879703598039131?idleMessage=currently+offline!&hideDiscrim=true)](https://discord.com/users/720879703598039131)
+[![Discord Presence](https://lanyard.cnrad.dev/api/720879703598039131?idleMessage=currently+offline!&hideDiscrim=true&bg=#0d1117)](https://discord.com/users/720879703598039131)
 
 ### My Life:
 ```c++
