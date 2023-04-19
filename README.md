@@ -13,7 +13,7 @@
 
 [` Link to my Spotify playlist `](https://open.spotify.com/playlist/3a9ZyIjqLdiJ12hEAuyoW2?si=a64068d979854f84)
 ### My Discord:
-![https://discord.com/users/720879703598039131](https://discord.c99.nl/widget/theme-4/720879703598039131.png)
+[![Discord Presence](https://lanyard.cnrad.dev/api/720879703598039131)](https://discord.com/users/720879703598039131)
 
 ### My Life:
 ```c++
@@ -27,13 +27,6 @@
       functions.sleep()
   }
 ```
-
-<p align=center>
-  <a href="https://discord.com/users/720879703598039131"><img src="https://lanyard-profile-readme.vercel.app/api/720879703598039131" width=45%></a>
-</p>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/720879703598039131)](https://discord.com/users/720879703598039131)
-
 [` I love coffee ☕`]('https://github.com/Th3Spl')
 
 ## Who am i :
