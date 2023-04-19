@@ -32,6 +32,8 @@
   <a href="https://discord.com/users/720879703598039131"><img src="https://lanyard-profile-readme.vercel.app/api/720879703598039131" width=45%></a>
 </p>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/720879703598039131)](https://discord.com/users/720879703598039131)
+
 [` I love coffee ☕`]('https://github.com/Th3Spl')
 
 ## Who am i :
