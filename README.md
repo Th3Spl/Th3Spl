@@ -34,7 +34,7 @@ In my discord community you can chill out and vide with other
 users, gamers, coders, graphs, otakus and you can partecipate
 to some events!
 
-[`Discord Link`](https://discord.gg/635ysHGDG6)
+[`Discord Server Link`](https://discord.gg/635ysHGDG6)
 
 ### My contacts:
 At the moment the unique method to 
