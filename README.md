@@ -28,6 +28,10 @@
   }
 ```
 
+<p align=center>
+  <a href="https://discord.com/users/720879703598039131"><img src="https://lanyard-profile-readme.vercel.app/api/720879703598039131" width=45%></a>
+</p>
+
 [` I love coffee ☕`]('https://github.com/Th3Spl')
 
 ## Who am i :
