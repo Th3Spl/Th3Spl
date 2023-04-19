@@ -22,7 +22,7 @@
 
 [` I love coffee ☕`]('https://github.com/Th3Spl')
 
-## Who am i :
+## Who i am :
 I am Th3Spl and this is my GitHub profile
 i love to code in c++, c# and python but i also 
 know some html/css actually i am working on some 
