@@ -13,6 +13,7 @@
 
 
 [` I also know a little bit of: html, css, java, COBOL`]('https://github.com/Th3Spl')
+
 [`Actually studying Kernel Development`]('https://github.com/Th3Spl')
 
 ### Spotify:
