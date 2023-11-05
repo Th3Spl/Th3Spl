@@ -14,7 +14,7 @@
 
 [` I also know a little bit of: html, css, java, COBOL`]('https://github.com/Th3Spl')
 
-[`Actually studying Kernel Drivers Development`]('https://github.com/Th3Spl')
+[`Currently studying Kernel Drivers Development`]('https://github.com/Th3Spl')
 
 ### Spotify:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31e2zm5f74xifzyo73v62bg6kp7a&cover_image=true&theme=natemoo-re&bar_color=1138d4&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31e2zm5f74xifzyo73v62bg6kp7a&redirect=true)
