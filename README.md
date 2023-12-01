@@ -1,4 +1,4 @@
-# Hi Th3Spl Here!
+# Hi, Th3Spl Here!
 
 ### My Knowledge:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
