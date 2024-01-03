@@ -28,8 +28,8 @@
 Hi, I'm Th3Spl and my goal is to learn as much as possible
 about computer science and I am really into low-level stuff!
 </br>
-<p>"There is nothing like the power of the kernel in Windows"
-- Pavel Yosifovich.</p>
+<strong>"There is nothing like the power of the kernel in Windows"
+- Pavel Yosifovich.</strong>
 
 [`Discord Server Link`]()
 
