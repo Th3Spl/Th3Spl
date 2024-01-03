@@ -14,7 +14,10 @@
 
 [`I also know a little bit of: html, css, java, COBOL`]('https://github.com/Th3Spl')
 
-[`Currently studying Kernel Drivers Development`]('https://github.com/Th3Spl')
+### Interests:
+- [+] Kernel Drivers Development.
+- [+] Windows inernals
+- [+] Reverse Engineering
 
 ### Spotify:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31e2zm5f74xifzyo73v62bg6kp7a&cover_image=true&theme=natemoo-re&bar_color=1138d4&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31e2zm5f74xifzyo73v62bg6kp7a&redirect=true)
@@ -25,16 +28,10 @@
 [` I love coffee ☕`]('https://github.com/Th3Spl')
 
 ## Who i am :
-I am Th3Spl and this is my GitHub profile
-i love to code in c++, c# and python but i also 
-know some html/css actually i am working on some 
-private projects and on some open source startups
-but i want to become a cyber security expert!
-
-### My Discord Community:
-In my discord community you can chill out and vide with other 
-users, gamers, coders, graphs, otakus and you can partecipate
-to some events!
+Hi, I'm Th3Spl and my goal is to learn as much as possible
+about computer science and I am really into low-level stuff!
+"There is nothing like the power of the kernel in Windows" 
+- Pavel Yosifovich.
 
 [`Discord Server Link`]()
 
