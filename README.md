@@ -11,9 +11,6 @@
 <br />
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-
-[`I also know a little bit of: html, css, java, COBOL`]('https://github.com/Th3Spl')
-
 ### Interests:
 - [+] Kernel Drivers Development.
 - [+] Windows inernals
