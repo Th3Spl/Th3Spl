@@ -12,9 +12,9 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### Interests:
-- [+] Kernel Drivers Development.
-- [+] Windows inernals
-- [+] Reverse Engineering
+-  Kernel Drivers Development.
+-  Windows inernals
+-  Reverse Engineering
 
 ### Spotify:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31e2zm5f74xifzyo73v62bg6kp7a&cover_image=true&theme=natemoo-re&bar_color=1138d4&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31e2zm5f74xifzyo73v62bg6kp7a&redirect=true)
