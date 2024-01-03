@@ -31,12 +31,6 @@ about computer science and I am really into low-level stuff!
 <p><strong>"There is nothing like the power of the kernel in Windows"
 - Pavel Yosifovich.</strong></p>
 
-[`Discord Server Link`]()
-
-### My contacts:
-At the moment the unique method to 
-contact me is discord so i suggest you to join
-my [`Discord Community`](https://github.com/Th3Spl/Th3Spl/blob/main/README.md#hi-th3spl-here)
 <br />
 <br />
 ![Life Style](https://i.imgur.com/2Rn7HYe.png)
