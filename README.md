@@ -32,7 +32,8 @@ about computer science and I am really into low-level stuff!
 - Pavel Yosifovich.</strong></p>
 
 <br />
-<br />
+
 ![Life Style](https://i.imgur.com/2Rn7HYe.png)
+
 ### Disclaimer:
 All my projects here are for EDUCATIONAL PURPOSES, I am not responsible for any individual(s) using my code for their own purposes. Assume all projects are under [`MIT License`](https://opensource.org/licenses/MIT) unless otherwise specified.
