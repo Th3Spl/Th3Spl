@@ -11,7 +11,7 @@
 
 ### Interests:
 -  Kernel Drivers Development.
--  Windows inernals
+-  Windows internals
 -  Reverse Engineering
 
 ### Spotify:
