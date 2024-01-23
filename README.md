@@ -17,9 +17,6 @@
 ### Spotify:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31e2zm5f74xifzyo73v62bg6kp7a&cover_image=true&theme=natemoo-re&bar_color=1138d4&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31e2zm5f74xifzyo73v62bg6kp7a&redirect=true)
 
-### My Discord:
-[![Discord Presence](https://lanyard.cnrad.dev/api/720879703598039131?idleMessage=currently+idling!&hideDiscrim=true&bg=161b22)](https://discord.com/users/720879703598039131)
-
 [` I love coffee ☕`]('https://github.com/Th3Spl')
 
 ## Who i am :
