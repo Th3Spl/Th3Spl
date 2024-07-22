@@ -12,6 +12,7 @@
 ### Interests:
 -  Kernel Drivers Development.
 -  Windows internals.
+-  UEFI Environment.
 -  Reverse Engineering.
 
 [` I love coffee ☕`]('https://github.com/Th3Spl')
