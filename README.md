@@ -14,7 +14,7 @@
 -  Reverse Engineering.
 
 ### Commisions: 
-If you want to hire me or you want me to help you with your project,
+If you'd like to hire me or help with your project,
 add me on discord: Th3Spl
 
 ### Disclaimer:
