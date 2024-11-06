@@ -13,8 +13,8 @@
 -  UEFI Environment.
 -  Reverse Engineering.
 
-### More: 
-If you want to hire me or you want me to help you with your project
+### Commisions: 
+If you want to hire me or you want me to help you with your project,
 add me on discord: Th3Spl
 
 ### Disclaimer:
